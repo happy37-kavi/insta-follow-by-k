@@ -277,7 +277,7 @@ exit
 else
 
 printf " \e[1;93m[!] Invalid Option!\e[0m\n"
-sleep 2
+sleep 3
 menu
 
 fi
